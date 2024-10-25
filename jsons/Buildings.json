@@ -262,7 +262,7 @@
 
 	{
 		"name": "Ball Court",
-		"uniqueTo": "Maya",
+		"uniqueTo": "The Maya",
 		"replaces": "Colosseum",
 		"cost": 80,
 		"happiness": 3,
@@ -287,7 +287,7 @@
 
 	{
 		"name": "Dike",
-		"uniqueTo": "Netherlands",
+		"uniqueTo": "The Netherlands",
 		"replaces": "Levee",
 		"cost": 180,
 		"uniques": [

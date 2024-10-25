@@ -3,6 +3,7 @@
 	{
 		"name": "Babylon",
 		"leaderName": "Hammurabi",
+		"adjective": ["Babylonian"],
 
 		"startIntroPart1": "The sun rises. Since time immemorial, the Babylonian people have lived a nomadic life. After years of wandering, they are ready to settle down and found your first city.\n\nYour people have vested absolute power in you, trusting that you can build a Civilization to stand the test of time!",
 
@@ -95,6 +96,7 @@
 
 	{
 		"name": "Byzantium",
+		"adjective": ["Byzantine"],
 		"leaderName": "Justinian I",
 
 		"startIntroPart1": "The sun rises. Since time immemorial, the Byzantine people have lived a nomadic life. After years of wandering, they are ready to settle down and found your first city.\n\nYour people have vested absolute power in you, trusting that you can build a Civilization to stand the test of time!",
@@ -185,6 +187,7 @@
 
 	{
 		"name": "Ethiopia",
+		"adjective": ["ethiopian"],
 		"leaderName": "Zara Yaqob",
 
 		"startIntroPart1": "The sun rises. Since time immemorial, the Ethiopian people have lived a nomadic life. After years of wandering, they are ready to settle down and found your first city.\n\nYour people have vested absolute power in you, trusting that you can build a Civilization to stand the test of time!",
@@ -459,8 +462,9 @@
 	},
 
 	{
-		"name": "Maya",
+		"name": "The Maya", // Maya in Civ IV
 		"leaderName": "Pacal II",
+		"adjective": ["mayan"],
 
 		"startIntroPart1": "The sun rises. Since time immemorial, the Mayan people have lived a nomadic life. After years of wandering, they are ready to settle down and found your first city.\n\nYour people have vested absolute power in you, trusting that you can build a Civilization to stand the test of time!",
 
@@ -551,6 +555,7 @@
 
 	{
 		"name": "Native America",
+		"adjective": ["Native American"],
 		"leaderName": "Sitting Bull",
 
 		"startIntroPart1": "The sun rises. Since time immemorial, the Native American people have lived a nomadic life. After years of wandering, they are ready to settle down and found your first city.\n\nYour people have vested absolute power in you, trusting that you can build a Civilization to stand the test of time!",
@@ -649,8 +654,9 @@
 	},
 
 	{
-		"name": "Netherlands",
+		"name": "The Netherlands", // "Netherlands" in Civ IV
 		"leaderName": "Willem van Oranje",
+		"adjective": ["Dutch"],
 
 		"startIntroPart1": "The sun rises. Since time immemorial, the Dutch people have lived a nomadic life. After years of wandering, they are ready to settle down and found your first city.\n\nYour people have vested absolute power in you, trusting that you can build a Civilization to stand the test of time!",
 

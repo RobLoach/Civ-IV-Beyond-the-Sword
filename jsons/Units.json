@@ -396,7 +396,7 @@
 	{
 		"name": "Holkan",
 		"replaces": "Spearman",
-		"uniqueTo": "Maya",
+		"uniqueTo": "The Maya",
 		"unitType": "Sword",
 		"strength": 4,
 		"movement": 1,
@@ -430,7 +430,7 @@
 	{
 		"name": "East Indiaman",
 		"replaces": "Galleon",
-		"uniqueTo": "Netherlands",
+		"uniqueTo": "The Netherlands",
 		"unitType": "Melee Water",
 		"strength": 6,
 		"movement": 4,
